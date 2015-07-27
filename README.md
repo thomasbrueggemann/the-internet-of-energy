@@ -28,6 +28,10 @@ In order to apply this knowledge and the generous intelligence of a crowd of int
 * The other day I was driving my car down a german motorway and saw on my right hand side a field of wind turbines, our push forwards into green energy production. On the other side I looked at lines and lines of electricity wires. For the internet of communication we have solved this wire problem by going wireless. **We need wireless energy transmission!**
 * The dilemma with solarpanels is that they create the energy when the need and demand for it is lesser than it is, when they cannot provide their energy - at nighttime. In order to solve this problem, **we need energy storage solutions that can store the energy produced at any point and elastically provide the energy when needed**
 
+## State of the Art
+
+### Wireless Electricity Transfer
+
 ## References
 
 [1] https://en.wikipedia.org/wiki/Jeremy_Rifkin, visited 07-27-2015<br>
