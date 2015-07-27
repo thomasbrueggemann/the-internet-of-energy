@@ -54,8 +54,7 @@ We have been transmitting energy wirelessly for a really long time. Think of the
 
 *"Abb. 1: Transformator mit 2 Spulen gleicher Windungszahl"* <sup>3</sup>
 
-Energy is beeing transferred from one coil to the other using an magnetic field. The distance between the coils are quite small, but researchers have found ways to enhance the distance. [Eric Giler:
-A demo of wireless electricity](http://www.ted.com/talks/eric_giler_demos_wireless_electricity)
+Energy is beeing transferred from one coil to the other using an magnetic field. The distance between the coils are quite small, but researchers have found ways to enhance the distance. <sup>3a</sup>
 
 The current record for wireless energy transmit in distance is 55m (around 180 ft) held by japanese scientists <sup>4</sup> that are aiming to create solar panels orbiting earth and sending back the highly efficient energy produced.
 
@@ -85,8 +84,10 @@ Adding up all these small amounts of energy per household, multiplied by every h
 
 ## References
 
-[1] https://en.wikipedia.org/wiki/Jeremy_Rifkin, visited 07-27-2015<br>
+[1] https://en.wikipedia.org/wiki/Jeremy_Rifkin, visited 07/27/2015<br>
 [2] https://youtube.com/watch?v=XtQoPcscFts, "The Energy Internet Explained, with Jeremy Rifkin"<br>
-[2a] http://spectrum.ieee.org/tech-talk/telecom/internet/jeremy-rifkin-on-the-internet-of-things-and-the-next-industrial-revolution, visited 07-27-2015<br>
-[3] http://vlex.physik.uni-oldenburg.de/42370.html, Institut für Physik Universität Oldenburg, visited 07-27-2015<br>
-[4] http://phys.org/news/2015-03-japan-space-scientists-wireless-energy.html, visited 07-27-2015<br>
+[2a] http://spectrum.ieee.org/tech-talk/telecom/internet/jeremy-rifkin-on-the-internet-of-things-and-the-next-industrial-revolution, visited 07/27/2015<br>
+[3] http://vlex.physik.uni-oldenburg.de/42370.html, Institut für Physik Universität Oldenburg, visited 07/27/2015<br>
+[3a] http://www.ted.com/talks/eric_giler_demos_wireless_electricity, "Eric Giler:
+A demo of wireless electricity", visited 07/27/2015<br>
+[4] http://phys.org/news/2015-03-japan-space-scientists-wireless-energy.html, visited 07/27/2015<br>
