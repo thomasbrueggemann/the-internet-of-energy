@@ -6,7 +6,8 @@
       - [What we need is energy prototyping devices](#what-we-need-is-energy-prototyping-devices)
    - [What problems could be solved?](#what-problems-could-be-solved)
    - [State of the Art](#state-of-the-art)
-      - [Wireless Electricity Transfer](#wireless-electricity-transfer)
+      - [Wireless electricity transfer](#wireless-electricity-transfer)
+      - [Energy storage solutions](#energy-storage-solutions)
    - [The Internet of Things approach](#the-internet-of-things-approach)
    - [How can we start?](#how-can-we-start)
    - [References](#references)
@@ -46,7 +47,7 @@ In order to apply this knowledge and the generous intelligence of a crowd of int
 
 ## State of the Art
 
-### Wireless Electricity Transfer
+### Wireless electricity transfer
 
 We have been transmitting energy wirelessly for a really long time. Think of the way an electrical transformer works:
 
