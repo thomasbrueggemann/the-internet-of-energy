@@ -1,7 +1,7 @@
 # The Internet of Energy
 
 - [The Internet of Energy](#the-internet-of-energy)
-   - [The Idea](#the-idea)
+   - [The idea](#the-idea)
       - [Applying the WWW knowledge to the energy internet](#applying-the-www-knowledge-to-the-energy-internet)
       - [What we need is energy prototyping devices](#what-we-need-is-energy-prototyping-devices)
    - [What problems could be solved?](#what-problems-could-be-solved)
@@ -11,7 +11,7 @@
    - [How can we start?](#how-can-we-start)
    - [References](#references)
 
-## The Idea
+## The idea
 
 For a couple of month the idea of Jeremy Rifkin, an American economic and social theorist, writer, public speaker, political advisor, and activist <sup>1</sup>, to implement an internet of energy, is stuck in the back of my head.
 
