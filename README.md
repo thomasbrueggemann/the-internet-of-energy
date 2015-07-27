@@ -17,7 +17,7 @@ For a couple of month the idea of Jeremy Rifkin, an American economic and social
 
 [![The Energy Internet Explained, with Jeremy Rifkin](http://img.youtube.com/vi/XtQoPcscFts/0.jpg)](http://www.youtube.com/watch?v=XtQoPcscFts) 
 
-*["The Energy Internet Explained, with Jeremy Rifkin"](https://youtube.com/?v=XtQoPcscFts)* <sup>2</sup>
+*["The Energy Internet Explained, with Jeremy Rifkin"](https://youtube.com/watch?v=XtQoPcscFts)* <sup>2</sup>
 
 Rifkin speaks of generating energy ressources from every households roof by solar panels, wind generators and heat exchangers in the ground. Every household, and this system is currently beeing implemented in Denmark and Germany will provide its share of energy to a smart grid of energy storage and consumers. The energy need will be balanced in a smart fashion so that there is always enough energy at high demand hotspots.
 
