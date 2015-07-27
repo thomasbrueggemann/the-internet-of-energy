@@ -47,7 +47,7 @@ The idea behind these technologies is to use the resonance effect. The same way 
 
 With this innovation we could build a smart grid of energy emmiting devices on the roof of everybodies houses and transmit the energy to whereever we need it the most momentarily.
 
-And this is where we, the software developers, internet specialists, IT thinkers come into place: How do we find out where to route the energy, how, why, what if a node fails, what if a distict fails to route or deliver of store. *We have already solved these problems! We have already solved these problems for the internet of communications. Let's apply our know how to the internet of energy!*
+And this is where we, the software developers, internet specialists, IT thinkers come into place: How do we find out where to route the energy, how, why, what if a node fails, what if a distict fails to route or deliver of store. **We have already solved these problems! We have already solved these problems for the internet of communications. Let's apply our know how to the internet of energy!**
 
 ## How can we start?
 
