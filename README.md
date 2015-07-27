@@ -64,6 +64,12 @@ With this innovation we could build a smart grid of energy emmiting devices on t
 
 And this is where we, the software developers, internet specialists, IT thinkers come into place: How do we find out where to route the energy, how, why, what if a node fails, what if a distict fails to route or deliver of store. **We have already solved these problems! We have already solved these problems for the internet of communications. Let's apply our know how to the internet of energy!**
 
+### Energy storage solutions
+
+* Hydrongen Energy Storage <sup>5</sup>
+* Flywheels
+* Batteries
+
 ## The Internet of Things approach
 
 Assuming that we already have an energy internet setup and that we know how to store the engery efficiently, a new internet of things approach can be used. We can look at our homes and find new ways of creating energy. Each of these smart energy emitting IoT devices can deliver their energy to the energy internet and send data to a data collection / routing hub.
@@ -91,3 +97,4 @@ Adding up all these small amounts of energy per household, multiplied by every h
 [3a] http://www.ted.com/talks/eric_giler_demos_wireless_electricity, "Eric Giler:
 A demo of wireless electricity", visited 07/27/2015<br>
 [4] http://phys.org/news/2015-03-japan-space-scientists-wireless-energy.html, visited 07/27/2015<br>
+[5] http://www.renewableenergyworld.com/articles/2014/07/hydrogen-energy-storage-a-new-solution-to-the-renewable-energy-intermittency-problem.html, "Hydrogen Energy Storage: A New Solution To the Renewable Energy Intermittency Problem", visited 27/7/2015<br>
