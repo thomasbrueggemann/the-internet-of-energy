@@ -32,7 +32,27 @@ In order to apply this knowledge and the generous intelligence of a crowd of int
 
 ### Wireless Electricity Transfer
 
+We have been transmitting energy wirelessly for a really long time. Think of the way an electrical transformer works:
+
+![](http://vlex.physik.uni-oldenburg.de/ewa_transformator_html_fd7c1e0.png)
+
+"Abb. 1: Transformator mit 2 Spulen gleicher Windungszahl" <sup>3</sup>
+
+Energy is beeing transferred from one coil to the other using an magnetic field. The distance between the coils are quite small, but researchers have found ways to enhance the distance. [Eric Giler:
+A demo of wireless electricity](http://www.ted.com/talks/eric_giler_demos_wireless_electricity)
+
+The current record for wireless energy transmit in distance is 55m (around 180 ft) held by japanese scientists <sup>4</sup> that are aiming to create solar panels orbiting earth and sending back the highly efficient energy produced.
+
+## How can we start?
+
+* Build little energy problem solving projects with Arduino!
+* Think about ways to store electricity 
+* Layout an energy grid that uses commodity electronics for cities
+* Crowdsourcing ideas of sharing electricity
+
 ## References
 
 [1] https://en.wikipedia.org/wiki/Jeremy_Rifkin, visited 07-27-2015<br>
 [2] https://youtube.com/watch?v=XtQoPcscFts
+[3] http://vlex.physik.uni-oldenburg.de/42370.html, Transformator, Institut für Physik Universität Oldenburg, visited 07-27-2015
+[4] http://phys.org/news/2015-03-japan-space-scientists-wireless-energy.html, visited 07-27-2015
