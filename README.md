@@ -62,6 +62,6 @@ And this is where we, the software developers, internet specialists, IT thinkers
 
 [1] https://en.wikipedia.org/wiki/Jeremy_Rifkin, visited 07-27-2015<br>
 [2] https://youtube.com/watch?v=XtQoPcscFts<br>
-[2a] http://spectrum.ieee.org/tech-talk/telecom/internet/jeremy-rifkin-on-the-internet-of-things-and-the-next-industrial-revolution, visited 07-27-2015
+[2a] http://spectrum.ieee.org/tech-talk/telecom/internet/jeremy-rifkin-on-the-internet-of-things-and-the-next-industrial-revolution, visited 07-27-2015<br>
 [3] http://vlex.physik.uni-oldenburg.de/42370.html, Institut für Physik Universität Oldenburg, visited 07-27-2015<br>
 [4] http://phys.org/news/2015-03-japan-space-scientists-wireless-energy.html, visited 07-27-2015<br>
