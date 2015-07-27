@@ -43,6 +43,12 @@ A demo of wireless electricity](http://www.ted.com/talks/eric_giler_demos_wirele
 
 The current record for wireless energy transmit in distance is 55m (around 180 ft) held by japanese scientists <sup>4</sup> that are aiming to create solar panels orbiting earth and sending back the highly efficient energy produced.
 
+The idea behind these technologies is to use the resonance effect. The same way the opera singer can make a wineglass pop on the other side of the room, the magnetic field emmiting coils are beeing shaken at a high frequency in order to use the resonance effect and kind of shake the magnetic field through the room. But only coils that move with the same frequency can receive the magnetic field and retransform it into energy. 
+
+With this innovation we could build a smart grid of energy emmiting devices on the roof of everybodies houses and transmit the energy to whereever we need it the most momentarily.
+
+And this is where we, the software developers, internet specialists, IT thinkers come into place: How do we find out where to route the energy, how, why, what if a node fails, what if a distict fails to route or deliver of store. *We have already solved these problems! We have already solved these problems for the internet of communications. Let's apply our know how to the internet of energy!*
+
 ## How can we start?
 
 * Build little energy problem solving projects with Arduino!
@@ -53,6 +59,6 @@ The current record for wireless energy transmit in distance is 55m (around 180 f
 ## References
 
 [1] https://en.wikipedia.org/wiki/Jeremy_Rifkin, visited 07-27-2015<br>
-[2] https://youtube.com/watch?v=XtQoPcscFts
-[3] http://vlex.physik.uni-oldenburg.de/42370.html, Transformator, Institut für Physik Universität Oldenburg, visited 07-27-2015
-[4] http://phys.org/news/2015-03-japan-space-scientists-wireless-energy.html, visited 07-27-2015
+[2] https://youtube.com/watch?v=XtQoPcscFts<br>
+[3] http://vlex.physik.uni-oldenburg.de/42370.html, Institut für Physik Universität Oldenburg, visited 07-27-2015<br>
+[4] http://phys.org/news/2015-03-japan-space-scientists-wireless-energy.html, visited 07-27-2015<br>
