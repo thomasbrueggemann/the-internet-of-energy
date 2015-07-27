@@ -1,4 +1,4 @@
-# The Internet of Electricity
+# The Internet of Energy
 For a couple of month the idea of Jeremy Rifkin, an American economic and social theorist, writer, public speaker, political advisor, and activist <sup>1</sup>, to implement an internet of energy is stuck somewhere in the back of my head.
 
 [![The Energy Internet Explained, with Jeremy Rifkin](http://img.youtube.com/vi/XtQoPcscFts/0.jpg)](http://www.youtube.com/watch?v=XtQoPcscFts) 
@@ -12,6 +12,9 @@ But these developments and new innovations, which effect everyone of us, are mos
 Rifkin adresses the similarities to the internet of communication, that we are used to for a couple of years now, the good old WWW. We have learned to scale software to be able to serve hundreds of thousands of requests per minute and we also learned to balance the load across available ressources and queue and store data as we need and can process them.
 
 These developments have recently been pushed by open source contributions of a large community of intelligent and innovative people. It has so to say been crowdsourced. The WWW research and developments have been open and a lot of people are contributing. Most recently we are developing applications we classify as "The Internet of Things" and these developments are possible due to the easy access to prototyping tools, such as the [Arduino](https://www.arduino.cc/) microcontroller board, to name just one of these innovations.
+
+We have cheap and easy prototyping tools to solve problems on the internet of communication and the WWW developers and thinkers have best practices in their pockets on how to solve large scale problems well.
+Can't we apply this knowledge to the internet of energy?
 
 ### Going wireless
 
