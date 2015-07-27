@@ -51,6 +51,17 @@ With this innovation we could build a smart grid of energy emmiting devices on t
 
 And this is where we, the software developers, internet specialists, IT thinkers come into place: How do we find out where to route the energy, how, why, what if a node fails, what if a distict fails to route or deliver of store. **We have already solved these problems! We have already solved these problems for the internet of communications. Let's apply our know how to the internet of energy!**
 
+## The Internet of Things approach
+
+Assuming that we already have an energy internet setup and that we know how to store the engery efficiently, a new internet of things approach can be used. We can look at our homes and find new ways of creating energy. Each of these smart energy emitting IoT devices can deliver their energy to the energy internet and send data to a data collection / routing hub.
+
+To name just a few ideas of energy generating IoT ideas:
+
+* Using the wastewater flow of every household to power small water turbines
+* Use the by-produts of heat emitting devices like computers or televisions to generate small amounts of energy
+
+Adding up all these small amounts of energy per household, multiplied by every household in a country, this can create severe amounts of energy.
+
 ## How can we start?
 
 * Build little energy problem solving projects with Arduino!
