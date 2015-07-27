@@ -1,5 +1,5 @@
 # The Internet of Energy
-For a couple of month the idea of Jeremy Rifkin, an American economic and social theorist, writer, public speaker, political advisor, and activist <sup>1</sup>, to implement an internet of energy is stuck somewhere in the back of my head.
+For a couple of month the idea of Jeremy Rifkin, an American economic and social theorist, writer, public speaker, political advisor, and activist <sup>1</sup>, to implement an internet of energy, is stuck in the back of my head.
 
 [![The Energy Internet Explained, with Jeremy Rifkin](http://img.youtube.com/vi/XtQoPcscFts/0.jpg)](http://www.youtube.com/watch?v=XtQoPcscFts) 
 
