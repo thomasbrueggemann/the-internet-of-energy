@@ -58,13 +58,13 @@ We have been transmitting energy wirelessly for a really long time. Think of the
 
 *"Abb. 1: Transformator mit 2 Spulen gleicher Windungszahl"* <sup>3</sup>
 
-Energy is beeing transferred from one coil to the other using an magnetic field. The distance between the coils are quite small, but researchers have found ways to enhance the distance. <sup>3a</sup>
+Energy is beeing transferred from one coil to the other using a magnetic field. The distance between the coils are quite small, but researchers have found ways to enhance the distance. <sup>3a</sup>
 
 The current record for wireless energy transmit in distance is 55m (around 180 ft) held by japanese scientists <sup>4</sup> that are aiming to create solar panels orbiting earth and sending back the highly efficient energy produced.
 
-The idea behind these technologies is to use the resonance effect. The same way the opera singer can make a wineglass pop on the other side of the room, the magnetic field emmiting coils are beeing shaken at a high frequency in order to use the resonance effect and kind of shake the magnetic field through the room. But only coils that move with the same frequency can receive the magnetic field and retransform it into energy. 
+The idea behind these technologies is to use the resonance effect. The same way the opera singer can make a wineglass pop on the other side of the room, the magnetic field emmiting coils are beeing shaken at a high frequency in order to use the resonance effect and shake the magnetic field through the room. But only coils that move with the same frequency can receive the magnetic field and retransform it into electricity. 
 
-With this innovation we could build a smart grid of energy emmiting devices on the roof of everybodies houses and transmit the energy to whereever we need it the most momentarily.
+With this innovation we could build a smart grid of energy emmiting devices on the roof of everyones houses and transmit the energy to whereever we need it the most momentarily.
 
 And this is where we, the software developers, internet specialists, IT thinkers come into place: How do we find out where to route the energy, how, why, what if a node fails, what if a distict fails to route or deliver of store. **We have already solved these problems! We have already solved these problems for the internet of communications. Let's apply our know how to the internet of energy!**
 
