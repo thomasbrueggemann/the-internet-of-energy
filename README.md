@@ -93,6 +93,7 @@ Adding up all these small amounts of energy per household, multiplied by every h
 ## Interesting links
 
 * https://www.youtube.com/watch?v=9y39WNUdbkM, "Revolutionary designs for energy alternatives: Lonnie Johnson at TEDxAtlanta"
+* https://www.youtube.com/watch?v=hZiaTV6uvFQ, "Energy storage under pressure | Danielle Fong | TEDxCERN"
 
 ## References
 
