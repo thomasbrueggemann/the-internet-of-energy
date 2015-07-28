@@ -43,8 +43,8 @@ In order to apply this knowledge and the generous intelligence of a crowd of int
 
 ## What problems could be solved?
 
-* The other day I was driving my car down a german motorway and saw on my right hand side a field of wind turbines, our push forwards into green energy production. On the other side I looked at lines and lines of electricity wires. For the internet of communication we have solved this wire problem by going wireless. **We need wireless energy transmission!**
-* The dilemma with solarpanels is that they create the energy when the need and demand for it is lesser than it is, when they cannot provide their energy - at nighttime. In order to solve this problem, **we need energy storage solutions that can store the energy produced at any point and elastically provide the energy when needed**
+* The other day I was driving my car down a german motorway and saw on my right hand side a field of wind turbines, our push forwards into green energy production. On the other side I looked at lines and lines of electricity wires. For the internet of communication we have solved this wire problem by going wireless. **We need wireless energy transmission.**
+* The dilemma with solarpanels is that they create the energy when the need and demand for it is lesser than it is, when they cannot provide their energy - at nighttime. In order to solve this problem, **we need energy storage solutions that can store the energy produced at any point and elastically provide the energy when needed.**
 
 *"In Germany, one Sunday last May when 75 percent of the energy coming through the power grid was solar and wind, we had negative prices all day. [The power plant pays the grid operator to accept power, so that it is not forced to shut down the power plant.] You have to put in storage in order to manage peak and base loads, else you get wild fluctuations in your price, and a potential disruption of the system."* <sup>2a</sup>
 
