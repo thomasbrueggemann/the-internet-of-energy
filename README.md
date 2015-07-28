@@ -76,7 +76,7 @@ And this is where we, the software developers, internet specialists, IT thinkers
 
 ## The Internet of Things approach
 
-Assuming that we already have an energy internet setup and that we know how to store the engery efficiently, a new internet of things approach can be used. We can look at our homes and find new ways of creating energy. Each of these smart energy emitting IoT devices can deliver their energy to the energy internet and send data to a data collection / routing hub.
+Assuming that we already have an energy internet setup and that we know how to store the enery efficiently, a new internet of things approach can be used: We can look at our homes and find new ways of creating energy. Each of these smart energy emitting IoT devices can deliver their energy to the energy internet and send data to a data collection / routing hub.
 
 To name just a few ideas of energy generating IoT ideas:
 
