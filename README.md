@@ -10,6 +10,7 @@
       - [Energy storage solutions](#energy-storage-solutions)
    - [The Internet of Things approach](#the-internet-of-things-approach)
    - [How can we start?](#how-can-we-start)
+   - [Interesting links](#interesting-links)
    - [References](#references)
 
 ## The idea
@@ -88,6 +89,10 @@ Adding up all these small amounts of energy per household, multiplied by every h
 * Think about ways to store electricity 
 * Layout an energy grid that uses commodity electronics for cities
 * Crowdsourcing ideas of sharing electricity
+
+## Interesting links
+
+* https://www.youtube.com/watch?v=9y39WNUdbkM, "Revolutionary designs for energy alternatives: Lonnie Johnson at TEDxAtlanta"
 
 ## References
 
