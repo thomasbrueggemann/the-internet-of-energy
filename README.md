@@ -39,6 +39,8 @@ We have cheap and easy prototyping tools to solve problems on the internet of co
 
 In order to apply this knowledge and the generous intelligence of a crowd of intelligent people we need prototyping tools such as the Arduino microcontroller, that everybody can hook up on their office desk, to play around with energy problems.
 
+"We had no specialty in energy or mechanical engineering but with ideas, with efford, with commitment, perhaps together we can figure out how to sustainably power the world." - Danielle Fong <sup>2b</sup>
+
 ## What problems could be solved?
 
 * The other day I was driving my car down a german motorway and saw on my right hand side a field of wind turbines, our push forwards into green energy production. On the other side I looked at lines and lines of electricity wires. For the internet of communication we have solved this wire problem by going wireless. **We need wireless energy transmission!**
@@ -100,6 +102,7 @@ Adding up all these small amounts of energy per household, multiplied by every h
 [1] https://en.wikipedia.org/wiki/Jeremy_Rifkin, visited 07/27/2015<br>
 [2] https://youtube.com/watch?v=XtQoPcscFts, "The Energy Internet Explained, with Jeremy Rifkin"<br>
 [2a] http://spectrum.ieee.org/tech-talk/telecom/internet/jeremy-rifkin-on-the-internet-of-things-and-the-next-industrial-revolution, visited 07/27/2015<br>
+[2b] https://www.youtube.com/watch?v=hZiaTV6uvFQ, "Energy storage under pressure | Danielle Fong | TEDxCERN", visited 07/28/2015
 [3] http://vlex.physik.uni-oldenburg.de/42370.html, Institut für Physik Universität Oldenburg, visited 07/27/2015<br>
 [3a] http://www.ted.com/talks/eric_giler_demos_wireless_electricity, "Eric Giler:
 A demo of wireless electricity", visited 07/27/2015<br>
